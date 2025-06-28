@@ -50,7 +50,7 @@ Hi! I'm Ersin, a freelance junior data analyst focused on Python, data visualiza
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/geospatial-crime-map.git
+   git clone https://github.com/tepegozersin/geospatial-crime-map.git
 2. Open the notebook:
    jupyter notebook Geospatial\ Project.ipynb
 
