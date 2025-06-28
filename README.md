@@ -39,10 +39,8 @@ In this notebook, I created an interactive map that clusters crime incident mark
 
 ## 👤 About Me
 
-Hi! I'm Ersin, a freelance junior data analyst focused on Python, data visualization, and analytics. I’m building my portfolio with hands-on projects as I grow in the field.
-
 📫 Contact: tepegozersin@gmail.com  
-🌍 Location: Antlaya, Turkey  
+🌍 Location: Antalya, Turkey  
 
 ---
 
